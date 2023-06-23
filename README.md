@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://jazzaras.pythonanywhere.com/](http://jazzaras.pythonanywhere.com/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** and **Dart**
 
 - 📫 How to reach me **jazzaras@hotmail.com**
 
