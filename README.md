@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter And Dart**
 
-- 👨‍💻 All of my projects are available at [http://jazzaras.pythonanywhere.com/](http://jazzaras.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [http://jazzaras.pythonanywhere.com/](http://jazlzaras.pythonanywhere.com/)
 
 - 💬 Ask me about **Python** and **Flutter**
 
