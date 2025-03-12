@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jaazzar" target="blank"><img src="https://img.shields.io/twitter/follow/jaazzar?logo=twitter&style=for-the-badge" alt="jaazzar" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter And Dart**
-
-- 👨‍💻 All of my projects are available at [http://jazzaras.pythonanywhere.com/](http://jazzaras.pythonanywhere.com/)
+- 🌱 I’m currently learning **Backend Dev Using Django**
 
 - 💬 Ask me about **Python** and **Flutter**
 
-- 📫 How to reach me **jazzaras@hotmail.com**
+- 📫 How to reach me **jaazzaras@gmail.com**
 
 - ⚡ Fun fact **I can solve a rubik's cube**
 
